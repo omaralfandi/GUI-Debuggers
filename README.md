@@ -1,3 +1,1 @@
-# GUIWSN
-
-#A description of GUIWSN
+# GUI Debuggers
